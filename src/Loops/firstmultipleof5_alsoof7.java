@@ -9,7 +9,7 @@ public class firstmultipleof5_alsoof7 {
        while(num<=n){
            if(num%5==0 && num%7==0) {
                System.out.println("Found ans " +num);
-               continue;
+               break;
            }
          num++;
        }
