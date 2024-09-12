@@ -1,0 +1,370 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "findLength",
+            "request": "launch",
+            "mainClass": "LinkedList.findLength",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "firstProgram",
+            "request": "launch",
+            "mainClass": "LinkedList.firstProgram",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "generateSpiralOrder",
+            "request": "launch",
+            "mainClass": "_2d_Array.generateSpiralOrder",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "spiralOrder",
+            "request": "launch",
+            "mainClass": "_2d_Array.spiralOrder",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "pascalTriangle",
+            "request": "launch",
+            "mainClass": "_2d_Array.pascalTriangle",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "rotationOfMatrixBy90Degree",
+            "request": "launch",
+            "mainClass": "_2d_Array.rotationOfMatrixBy90Degree",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "transposeInPlace",
+            "request": "launch",
+            "mainClass": "_2d_Array.transposeInPlace",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "transposeOfMatrix",
+            "request": "launch",
+            "mainClass": "_2d_Array.transposeOfMatrix",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "matrixMultiplication",
+            "request": "launch",
+            "mainClass": "_2d_Array.matrixMultiplication",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "additionOfMatrix",
+            "request": "launch",
+            "mainClass": "_2d_Array.additionOfMatrix",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "initialize2dArray",
+            "request": "launch",
+            "mainClass": "_2d_Array.initialize2dArray",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "suffixPrefixEqual",
+            "request": "launch",
+            "mainClass": "twoPointerArray.suffixPrefixEqual",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "rangequery",
+            "request": "launch",
+            "mainClass": "twoPointerArray.rangequery",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "que2",
+            "request": "launch",
+            "mainClass": "twoPointerArray.que2",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "q",
+            "request": "launch",
+            "mainClass": "twoPointerArray.q",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "que",
+            "request": "launch",
+            "mainClass": "twoPointerArray.que",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "swapZeroes_Ones",
+            "request": "launch",
+            "mainClass": "twoPointerArray.swapZeroes_Ones",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Attach by Process ID",
+            "processId": "${command:PickJavaProcess}"
+        },
+        {
+            "type": "java",
+            "name": "Attach to Remote Program",
+            "request": "attach",
+            "hostName": "<The host name or ip address of remote debuggee>",
+            "port": "<debug port of remote debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.AreaOfCircle",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "Incrementdecrement",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.Incrementdecrement",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "doubledatatypes",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.doubledatatypes",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "percentageof5marks",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.percentageof5marks",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "printingnumbers",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.printingnumbers",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "sumof2",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.sumof2",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "takinginput",
+            "request": "launch",
+            "mainClass": "BasicsOfJava.takinginput",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "Positionofpoint_que",
+            "request": "launch",
+            "mainClass": "Conditionals.Positionofpoint_que",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "ProfitLoss",
+            "request": "launch",
+            "mainClass": "Conditionals.ProfitLoss",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "To_prove_trianglebysides",
+            "request": "launch",
+            "mainClass": "Conditionals.To_prove_trianglebysides",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "Tocheck_3pointson_straightline",
+            "request": "launch",
+            "mainClass": "Conditionals.Tocheck_3pointson_straightline",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "Tocheckstudent_passorfail",
+            "request": "launch",
+            "mainClass": "Conditionals.Tocheckstudent_passorfail",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "absoutenumber",
+            "request": "launch",
+            "mainClass": "Conditionals.absoutenumber",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "age_comparision_que",
+            "request": "launch",
+            "mainClass": "Conditionals.age_comparision_que",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "age_comparisionusing_nested",
+            "request": "launch",
+            "mainClass": "Conditionals.age_comparisionusing_nested",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "comparisionareaperimeter",
+            "request": "launch",
+            "mainClass": "Conditionals.comparisionareaperimeter",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "divisibility",
+            "request": "launch",
+            "mainClass": "Conditionals.divisibility",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "divisibility_by_multiplecondition",
+            "request": "launch",
+            "mainClass": "Conditionals.divisibility_by_multiplecondition",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "divisibility_question",
+            "request": "launch",
+            "mainClass": "Conditionals.divisibility_question",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "evenorodd",
+            "request": "launch",
+            "mainClass": "Conditionals.evenorodd",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "find_threedigitnumbers",
+            "request": "launch",
+            "mainClass": "Conditionals.find_threedigitnumbers",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "findleapyear",
+            "request": "launch",
+            "mainClass": "Conditionals.findleapyear",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "greatest_of_threenumbers",
+            "request": "launch",
+            "mainClass": "Conditionals.greatest_of_threenumbers",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "largest_ofthreenumbersN",
+            "request": "launch",
+            "mainClass": "Conditionals.largest_ofthreenumbersN",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "pecentageelseif",
+            "request": "launch",
+            "mainClass": "Conditionals.pecentageelseif",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "positionofpoint_wrtcircle",
+            "request": "launch",
+            "mainClass": "Conditionals.positionofpoint_wrtcircle",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "predict_output",
+            "request": "launch",
+            "mainClass": "Conditionals.predict_output",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "break_que",
+            "request": "launch",
+            "mainClass": "Loops.break_que",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "continue_que",
+            "request": "launch",
+            "mainClass": "Loops.continue_que",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "firstmultipleof5_alsoof7",
+            "request": "launch",
+            "mainClass": "Loops.firstmultipleof5_alsoof7",
+            "projectName": "JAVA-DSA_d777c349"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.Main",
+            "projectName": "JAVA-DSA_d777c349"
+        }
+    ]
+}
